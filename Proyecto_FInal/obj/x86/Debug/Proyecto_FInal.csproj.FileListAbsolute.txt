@@ -1,0 +1,30 @@
+C:\Users\HP\AppData\Local\Temporary Projects\Proyecto_FInal\bin\Debug\Proyecto_FInal.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Proyecto_FInal\bin\Debug\Proyecto_FInal.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Form1.resources
+C:\Users\HP\AppData\Local\Temporary Projects\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Properties.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.csproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Form2.resources
+C:\Users\HP\Documents\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.exe
+C:\Users\HP\Documents\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.pdb
+C:\Users\HP\Documents\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\bin\Debug\Proyecto_FInal.exe
+C:\Users\HP\Documents\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\bin\Debug\Proyecto_FInal.pdb
+C:\Users\HP\Documents\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Form1.resources
+C:\Users\HP\Documents\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Form2.resources
+C:\Users\HP\Documents\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Properties.Resources.resources
+C:\Users\HP\Documents\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Form3.resources
+C:\Users\HP\Documents\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Form4.resources
+C:\Users\HP\Documents\Umsa\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.exe
+C:\Users\HP\Documents\Umsa\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.pdb
+C:\Users\HP\Documents\Umsa\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\bin\Debug\Proyecto_FInal.exe
+C:\Users\HP\Documents\Umsa\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\bin\Debug\Proyecto_FInal.pdb
+C:\Users\HP\Documents\Umsa\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Umsa\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Form1.resources
+C:\Users\HP\Documents\Umsa\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Form2.resources
+C:\Users\HP\Documents\Umsa\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Form3.resources
+C:\Users\HP\Documents\Umsa\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Form4.resources
+C:\Users\HP\Documents\Umsa\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.Properties.Resources.resources
+C:\Users\HP\Documents\Umsa\ETM 370 - INFO\Proyecto_Final\Proyecto_FInal\Proyecto_FInal\obj\x86\Debug\Proyecto_FInal.csproj.GenerateResource.Cache
